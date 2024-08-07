@@ -1,0 +1,67 @@
+JURIMETRIA:
+Jurimetria é a aplicação de técnicas de análise quantitativa ao campo do Direito. O termo foi criado em 1948 por Lee Loevinger, um jurista americano (Loevinger 1948).
+
+Na verdade, ele utilizou uma definição um pouco mais abrangente para Jurimetria, comparando-a à relação entre econometria e economia na época. Em outro trabalho importante de 1963, Loevinger acrescentou que Jurimetria envolve também a aplicação da teoria da comunicação e da informação à linguagem legal, o uso de lógica matemática no estudo da lei e a formulação de cálculos relacionados à probabilidade legal (Loevinger 1963).
+
+Em alguns casos, Jurimetria adquire um significado mais amplo, incluindo simplesmente o uso do método científico em estudos jurídicos (Meyer 1966) ou a aplicação de pesquisa empírica sobre fenômenos legais (De Mulder et al. 2010).
+
+No entanto, preferimos adotar uma definição que se concentra especificamente na dimensão quantitativa da Jurimetria. Isso significa que não estamos considerando a inclusão de outras aplicações de métodos empíricos, que podem ser de natureza qualitativa, no contexto jurídico.
+
+Portanto, a Jurimetria envolve a análise de grandes quantidades de dados, ou seja, amostras extensas (conhecidas como “Large-N”, conforme utilizado na ciência anglo-saxônica). Essas análises requerem o uso de técnicas estatísticas para fazer estimativas e inferências sobre uma população com base nos dados observados em uma amostra.
+
+https://turivius.com/portal/jurimetria-o-que-e-e-como-usa-la/
+
+ALGORITMO:
+Na vastidão da internet, os algoritmos são como os arquitetos invisíveis que moldam nossa experiência online. Em essência, um algoritmo é uma sequência de instruções computacionais que define como os dados são processados e apresentados aos usuários. Eles atuam como os cérebros por trás dos mecanismos de busca, das redes sociais e de muitas outras plataformas online, classificando e organizando informações para fornecer resultados relevantes e personalizados. Em essência, os algoritmos são a espinha dorsal do funcionamento da internet, influenciando o que vemos, ouvimos e experimentamos enquanto navegamos pelo vasto oceano digital.
+
+https://www.socialhub.pro/blog/algoritmo-saiba-o-que-e-e-como-funciona/?utm_term=&utm_campaign=%5Bsemelhante+clientes%5D+-+whatsapp+em+massa&utm_source=adwords&utm_medium=ppc&hsa_acc=9368398192&hsa_cam=17885780830&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMIhfDR0NfjhwMV9zrUAR3dGQ1zEAAYASAAEgJj4vD_BwE
+
+INTELIGÊNCIA ARTIFICIAL:
+Inteligência Artificial (IA) é um ramo da ciência da computação que se concentra no desenvolvimento de sistemas e algoritmos capazes de realizar tarefas que normalmente exigem inteligência humana. Essas tarefas incluem:
+
+Aprendizado;
+Raciocínio;
+Percepção;
+Compreensão e geração de linguagem natural;
+Reconhecimento de voz e imagem;
+Tomada de decisão; e
+Resolução de problemas complexos.
+Embora a IA tenha suas origens na década de 1950, foi nas últimas décadas que seu desenvolvimento acelerou, com avanços significativos em hardware, software e técnicas de aprendizado. Além disso, o volume de dados disponível também aumentou, possibilitando “ensinar” essas IAs de forma mais efetiva.
+
+A IA tem sido aplicada em uma ampla gama de situações, como: assistentes virtuais, veículos autônomos, análise de dados, medicina, finanças, entretenimento e muito mais, transformando a maneira como vivemos e trabalhamos 
+
+https://www.alura.com.br/artigos/inteligencia-artificial-ia?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=165988188187&hsa_ad=703853806006&hsa_src=g&hsa_tgt=dsa-2276348409503&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMImpHL2NjjhwMVByytBh19XxxdEAAYAiAAEgL3kvD_BwE
+
+BANCO DE DADOS:
+Banco de Dados é uma coleção organizada de informações/dados que são armazenados em um sistema de computador.
+
+Existem diversos tipos, são eles:
+
+Relacionais: Padrão mais conhecido e mais utilizado em ERP, CRM e outras aplicações por possuir armazenamento em tabela (com colunas e linhas) fornecendo uma maneira mais eficiente e flexível no acesso de informações estruturadas;
+
+Orientados a objetos: Armazenam seus registros no formato de objetos, como definido no paradigma orientado a objetos;
+
+Distribuídos (BDD): São bancos de dados que estão armazenados em diferentes servidores;
+
+Data warehouses: Projetados especialmente para análises avançadas utilizando diversas fontes de dados centralizadas;
+
+NoSQL: São banco de dados que armazenam os dados em um formato onde não há uma relação direta entre os elementos;
+
+Gráficos: Responsáveis por armazenar as entidades de dados na borda de sua estrutura e os relacionamentos entre as entidades em seus nós;
+
+OLTP: OLTP é um banco de dados projetado para um grande número de transações que são realizadas por vários usuários, por este motivo os bancos de dados OLTP devem ser rápidos e analíticos.
+
+De forma mais simplificada, é o agrupamento de dados sobre um mesmo assunto, controlado por um Sistema de Gerenciamento de Banco de Dados (SGBD).Data Base Management System ou Sistema de Gerenciamento de Banco de Dados (SGBD) por sua vez, é um conjunto de softwares responsáveis pelo gerenciamento de um banco de dados, tendo como principal objetivo gerenciar as bases de dados utilizadas por aplicações clientes e remover esta responsabilidade das mesmas. São responsáveis por controlar, acessar, organizar e proteger as informações de uma aplicação.
+
+https://www.treinaweb.com.br/blog/o-que-e-banco-de-dados?utm_source=&utm_medium=&utm_campaign=&utm_content=&gad_source=1&gclid=EAIaIQobChMIhLvAh9njhwMVmAWtBh0vPhvyEAAYAyAAEgKtlvD_BwE
+
+SERVIDOR:
+Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
+
+O termo servidor também define um recurso dentro de um sistema computacional maior, capaz de processar aplicações, prestar serviços e armazenar dados. Esses sistemas podem ser físicos ou virtuais, estarem instalados local ou remotamente. Normalmente, são escaláveis e possuem alto poder de processamento.
+
+Capazes de executar um conjunto específico de programas ou protocolos para fornecer serviços para outras máquinas ou clientes, servidores são equipamentos dedicados a executar aplicações e serviços dentro de uma rede LAN ou WAN.
+
+Arquitetura cliente/servidor
+
+https://www.controle.net/faq/o-que-sao-servidores

@@ -65,3 +65,37 @@ Capazes de executar um conjunto específico de programas ou protocolos para forn
 Arquitetura cliente/servidor
 
 https://www.controle.net/faq/o-que-sao-servidores
+
+NEUTRALIDADE DA REDE: 
+A neutralidade da rede é um princípio essencial para garantir a liberdade e a igualdade na internet. Ela assegura que todos tenham as mesmas oportunidades de acessar e compartilhar informações e conteúdos, independentemente de quem são ou do tipo de conteúdo que estão transmitindo. Apesar de existirem algumas exceções, a neutralidade da rede é fundamental para uma internet livre e aberta.
+(elas não podem impedir que você envie um vídeo ou uma foto ou que sua internet seja melhor enviando um tipo de conteúdo ou outro.)
+
+https://www.jusbrasil.com.br/artigos/entenda-de-uma-vez-por-todas-o-conceito-de-neutralidade-da-rede/1839681291#:~:text=A%20neutralidade%20da%20rede%20%C3%A9%20um%20princ%C3%ADpio%20essencial%20para%20garantir,de%20conte%C3%BAdo%20que%20est%C3%A3o%20transmitindo.
+
+zero-rating:
+O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens. O tema tem causado bastante polêmica, principalmente por causa do Internet.org do Facebook e, no Brasil, pelos planos de operadoras.
+(whatssap, facebook...)
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+
+NUVEM:
+O armazenamento em nuvem trata-se do armazenamento de dados ou arquivos em data centers externos. Na prática, empresas terceiras são responsáveis por um espaço remoto, e cedem esse espaço para usuários armazenarem dados e documentos. 
+
+No acesso em nuvem, a única necessidade é que o usuário tenha acesso a internet. Com isso, ele adentra esse servidor online e pode inserir fotos, vídeos, planilhas e documentos em geral, podendo acessar a qualquer hora tudo o que armazenou. 
+
+Qual a sua finalidade?
+O armazenamento em nuvem tem diversas finalidades, sendo que a principal delas é possibilitar ao usuário armazenar arquivos do local em que estiver, de forma rápida e prática, e ter acesso a esses documentos a qualquer momento. 
+
+Outra finalidade é armazenar esses arquivos de forma ininterrupta, ou seja, 24 horas por dia, sem que a empresa corra riscos de perder documentos, devido às diversas medidas de segurança que esses sistemas
+https://www.pontotel.com.br/armazenamento-em-nuvem/#:~:text=O%20armazenamento%20em%20nuvem%20trata,usu%C3%A1rio%20tenha%20acesso%20a%20internet.
+
+SISTEMA DE ARQUIVOS:
+Um sistema de arquivos é uma estrutura usada por um sistema operacional para organizar e gerenciar arquivos em um dispositivo de armazenamento, como um disco rígido, unidade de estado sólido (SSD) ou pendrive. Ele define como os dados são armazenados, acessados e organizados no dispositivo de armazenamento. Diferentes sistemas de arquivos têm caraterísticas variáveis e frequentemente são específicos para determinados sistemas operacionais ou dispositivos. Aqui estão alguns dos sistemas de arquivos comuns e seus prós e contras.
+https://www.kingston.com/br/blog/personal-storage/understanding-file-systems
+
+REDE NAURAL ARTIFICIAL:
+Uma rede neural é um método de inteligência artificial que ensina computadores a processar dados de uma forma inspirada pelo cérebro humano. É um tipo de processo de machine learning, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura em camadas, semelhante ao cérebro humano. A rede neural cria um sistema adaptativo que os computadores usam para aprender com os erros e se aprimorar continuamente. As redes neurais artificiais tentam solucionar problemas complicados, como resumir documentos ou reconhecer rostos com grande precisão.
+
+Por que as redes neurais são importantes?
+As redes neurais podem ajudar os computadores a tomar decisões inteligentes com assistência humana limitada. Isso ocorre porque elas aprendem e modelam relacionamentos entre os dados de entrada e de saída complexos e não lineares. Por exemplo, elas podem realizar as tarefas a seguir.
+
+https://aws.amazon.com/pt/what-is/neural-network/#:~:text=Uma%20rede%20neural%20%C3%A9%20um,camadas%2C%20semelhante%20ao%20c%C3%A9rebro%20humano.

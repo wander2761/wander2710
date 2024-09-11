@@ -1,0 +1,22 @@
+ESTRUTUTA DE REPETIÇÃO:
+O loopforé frequenteforque isso
+# Lista de exemplo
+frutas = ['maçã', 'banana', 'laranja', 'uva']
+
+# Loop for para iterar sobre a lista
+for fruta in frutas:
+    print(fruta)
+Neste exemplo, o loopforpercorfrutase imprime em
+
+estrututa de tomada de decisão:
+Aqui está um exemplo básico de uma estrutura de decisão de uso if,elif, eelse:
+  # Recebe a idade do usuário
+idade = int(input("Digite sua idade: "))
+
+# Verifica a faixa etária
+if idade < 18:
+    print("Você é menor de idade.")
+elif 18 <= idade < 65:
+    print("Você é adulto.")
+else:
+    print("Você é idoso.")
